@@ -34,5 +34,6 @@ Here are some ideas to get you started:
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
+  <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"/>
 
 </p>
