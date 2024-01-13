@@ -1,6 +1,6 @@
 ### Hello World! I'm Killian Cooney 👋 
 
-I'm a passionate Software Engineer and graduate of MSc Computer Science (Conversion) UCD and BSc Mathematical Sciences UCC. Currently, I am currently immersed in the world of software development and I enjoy problem-solving and creating unique and creative solutions! I love all things Computer Science and Mathematics.
+I'm a passionate Software Engineer and graduate of MSc Computer Science (Conversion) UCD and BSc Mathematical Sciences UCC. Currently, I am immersed in the world of software development and I enjoy problem-solving and creating unique and creative solutions! I love all things Computer Science and Mathematics.
 
 ## My Languages and Tools
 
