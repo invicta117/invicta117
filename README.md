@@ -1,20 +1,6 @@
 ### Hello World! I'm Killian Cooney 👋 
 
-I'm a MSc Computer Science (Conversion) student in UCD and I'm passionate about all things Computer Science and Mathematics. I love working on new software that can benefit others. I enjoy problem solving and creating unique and creative solutions!
-<!--
-**invicta117/invicta117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Software Engineer and graduate of MSc Computer Science (Conversion) student UCD and BSc Mathematical Sciences UCC. Currently, I am immersed in the world of software development and I enjoy problem-solving and creating unique and creative solutions! I love all things Computer Science and Ma
 
 ## My Languages and Tools
 
@@ -35,5 +21,14 @@ Here are some ideas to get you started:
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"/>
-
 </p>
+
+🌱 I'm Currently Learning
+
+I believe in continuous learning, and my current focus areas include:
+
+    ☁️ Learning about Google Cloud Platform (GCP) to enhance my cloud computing skills.
+    🧠 Deepening my understanding of algorithms and data structures.
+    🚀 Mastering the art of efficient problem-solving.
+    
+Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀✨
